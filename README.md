@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-> **🔗 Acesso Rápido:** [clique aqui para acessar o Dashboard Interativo Online](https://app.powerbi.com/view?r=eyJrIjoiNmEwZmExNjItODdmZC00ZDEyLTllOGItZWZkYjYwZjYxNDUzIiwidCI6IjI3ODJkNTJlLWQ0ZTMtNDgzZC05OTk1LThiZDljY2UyZTM2NCJ9&pageName=1928c8d314c40bf173cb)
+> **🔗 Acesso Rápido:** [clique aqui para acessar o Dashboard Interativo Online](https://app.powerbi.com/view?r=eyJrIjoiNmM4MzQyODYtYTNlYi00MDliLThmNGEtYTkwNTM2YzlmMGQ4IiwidCI6IjI3ODJkNTJlLWQ0ZTMtNDgzZC05OTk1LThiZDljY2UyZTM2NCJ9)
 
 ![Preview do Dashboard - Visão Geral](preview/preview.png)
 
@@ -40,4 +40,4 @@ Os dados brutos utilizados para este estudo foram extraídos do [iTunes Music Da
 
 **Willian Mateus** | *Data Analyst & BI*
 
- ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4)
+ ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
